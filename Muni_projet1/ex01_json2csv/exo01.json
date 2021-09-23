@@ -1,0 +1,13 @@
+{
+    "Etudiants":[{
+        "Num": 20211285,
+    "Nom": "Bayo",
+    "Prenom": "Adama"
+    },
+        {
+        "Num": 20211263,
+    "Nom": "Fofana",
+    "Prenom": "Nestaba"
+    }
+    ]
+}
